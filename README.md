@@ -7,7 +7,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Building%20AI%20against%20threats...;Scanning%20cyberspace...;Deploying%20innovations%20via%20Python...&font=Fira+Code&center=true&width=440&height=45&color=00FFAA&vCenter=true&size=22">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Building%20AI%20against%20threats...;Scanning%20cyberspace...&font=Fira+Code&center=true&width=440&height=45&color=00FFAA&vCenter=true&size=22">
 </p>
 
 
