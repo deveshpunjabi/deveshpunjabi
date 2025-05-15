@@ -21,19 +21,7 @@ I'm on a mission to combine *AI + Cybersecurity* to build:
 - 🔐 Next-gen defensive tools with automation & ethics  
 - 🧪 Learning simulators to empower budding hackers & researchers  
 
-All my tools are *open-source, transparent, and student-friendly* — made to educate and protect.
-
----
-
-### 🚀 Featured Projects
-
-| Project Name | Description | Link |
-|--------------|-------------|------|
-| 🚨 *CyberSuite Toolkit* | Full-stack cybersecurity suite with an intuitive Gradio UI: SQL injection, phishing detection, and more | [GitHub](https://github.com/deveshpujnabi/CyberSuite-Toolkit) |
-| 🧬 *QR Code Exploit Detector* | Detect and analyze malicious QR codes to stop exploits early | [GitHub](https://github.com/deveshpujnabi/QR-Code-Exploit-Detector) |
-| 🧰 *Password Strength Checker* | Real-time entropy-based password strength & breach detection | [GitHub](https://github.com/deveshpujnabi/Password-Strength-Checker) |
-| 🎥 *script2scene* | Text to visuals converter using Playground AI & Python automation | [GitHub](https://github.com/deveshpujnabi/script2scene) |
-| 🔐 *Encryption & Decryption* | Python ciphers toolkit to encode and decode confidential data | [GitHub](https://github.com/deveshpujnabi/encryption-and-decryption) |
+All my tools are *open-source, transparent, and student-friendly* made to educate and protect.
 
 ---
 
