@@ -78,7 +78,7 @@ All my tools are **open-source, transparent, and student-friendly** — made to 
 ### ☕️ Enjoyed my work? Buy me a coffee!
 
 <p align="center">
-  <a href="https://buymeacoffee.com/punjabidevm" target="_blank">
+  <a href="https://buymeacoffee.com/deveshpunjabi" target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 50px; width: 180px;" />
   </a>
 </p>
