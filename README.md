@@ -54,17 +54,6 @@ All my tools are *open-source, transparent, and student-friendly* — made to ed
 
 ---
 
-> <p align="center" style="font-style: italic; font-size: 1.2em; color:#00FFA3;">
-> "Code like a human. Defend like a machine. Create like a god." &nbsp; 🧬
-> </p>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="Coding gif" width="200px" />
-</div>
----
-
----
-
 ### ☕ Enjoyed my work? Buy me a coffee!
 
 <p align="center">
@@ -74,3 +63,7 @@ All my tools are *open-source, transparent, and student-friendly* — made to ed
 </p>
 
 > Your support fuels more open-source projects and keeps the cyber-vibes alive! 🙌
+
+<div align="center">
+  <img src="https://media.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="Coding gif" width="200px" />
+</div>
