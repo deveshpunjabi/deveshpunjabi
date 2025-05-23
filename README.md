@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center" style="color:#00FFA3;">
-  Cybersecurity Student &nbsp;|&nbsp; AI Researcher &nbsp;|&nbsp; Python Dev
+  Cybersecurity Enthusiast &nbsp;|&nbsp; AI Researcher & Developer &nbsp;|&nbsp; Python Dev
 </h3>
 
 <p align="center">
