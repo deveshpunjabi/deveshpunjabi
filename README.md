@@ -33,10 +33,10 @@ All my tools are *open-source, transparent, and student-friendly* made to educat
 
 ### 📊 GitHub Stats
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=deveshpunjabi&show_icons=true&theme=radical&bg_color=0D1117&title_color=00FFA3&icon_color=00FFA3&text_color=FFFFFF&border_color=00FFA3" alt="GitHub Stats" height="180"/>
 <p/>
-<p align="center">
+<p align="right">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=deveshpunjabi&theme=radical&stroke=0D1117&ring=00FFA3&fire=00FFA3&currStreakLabel=00FFA3&border=00FFA3" alt="GitHub Streak" height="180"/>
 </p>
 <p align="center">
