@@ -35,14 +35,13 @@ All my tools are *open-source, transparent, and student-friendly* made to educat
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=deveshpunjabi&show_icons=true&theme=radical&bg_color=0D1117&title_color=00FFA3&icon_color=00FFA3&text_color=FFFFFF&border_color=00FFA3" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=deveshpunjabi&show_icons=true&theme=transparent&title_color=0D1117&icon_color=0D1117&text_color=0D1117" height="180"/>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deveshpunjabi&theme=radical&stroke=0D1117&ring=00FFA3&fire=00FFA3&currStreakLabel=00FFA3&border=00FFA3" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deveshpunjabi&theme=transparent&currStreakLabel=0D1117&fire=0D1117&ring=0D1117" height="180"/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deveshpunjabi&layout=compact&theme=radical&bg_color=0D1117&title_color=00FFA3&text_color=FFFFFF&border_color=00FFA3" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deveshpunjabi&layout=compact&theme=transparent&title_color=0D1117&text_color=0D1117" height="180"/>
 
 </div>
-
 
 ---
 
