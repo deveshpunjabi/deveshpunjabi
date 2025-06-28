@@ -33,17 +33,16 @@ All my tools are *open-source, transparent, and student-friendly* made to educat
 
 ### 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=deveshpunjabi&show_icons=true&theme=radical&bg_color=0D1117&title_color=00FFA3&icon_color=00FFA3&text_color=FFFFFF&border_color=00FFA3" alt="GitHub Stats" height="180"/>
-</p>
+<div align="center">
 
-<p align="right">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deveshpunjabi&theme=radical&stroke=0D1117&ring=00FFA3&fire=00FFA3&currStreakLabel=00FFA3&border=00FFA3" alt="GitHub Streak" height="180"/>
-</p>
+  <img src="https://github-readme-stats.vercel.app/api?username=deveshpunjabi&show_icons=true&theme=radical&bg_color=0D1117&title_color=00FFA3&icon_color=00FFA3&text_color=FFFFFF&border_color=00FFA3" height="180"/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deveshpunjabi&layout=compact&theme=radical&bg_color=0D1117&title_color=00FFA3&text_color=FFFFFF&border_color=00FFA3" alt="Top Languages" height="180"/>
-</p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deveshpunjabi&theme=radical&stroke=0D1117&ring=00FFA3&fire=00FFA3&currStreakLabel=00FFA3&border=00FFA3" height="180"/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deveshpunjabi&layout=compact&theme=radical&bg_color=0D1117&title_color=00FFA3&text_color=FFFFFF&border_color=00FFA3" height="180"/>
+
+</div>
+
 
 ---
 
