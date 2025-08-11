@@ -232,27 +232,22 @@
   <table>
     <tr>
       <td align="center" width="33%">
-        <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100"/>
-        <br><strong>🏆 SIH'24 Finalist</strong>
-        <br>National-level recognition
+        <img src="https://miro.medium.com/1*gJ5RBdc0sbO0IxkZ_YU_YQ.gif" width="100"/>
+        <br><strong>🏆 Google Cloud Agentic AI Day'25 finalists</strong>
       </td>
       <td align="center" width="33%">
         <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="100"/>
-        <br><strong>🌟 Open Source</strong>
-        <br>GSSoC'24 & Winter of Blockchain
-      </td>
-      <td align="center" width="33%">
-        <img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-99c676e5f436.gif" width="100"/>
-        <br><strong>💼 Professional</strong>
-        <br>Associate @ Tech Mahindra
+        <br><strong>🌟 Open Source contributor</strong>
       </td>
     </tr>
   </table>
 </div>
 
 <!-- Enhanced Trophy Section -->
-<div align="center" style="margin-top: 20px;">
-  <img src="https://github-profile-trophy.vercel.app/?username=hsingh8850&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest,Issues" alt="Trophy" />
+<div style="background: rgba(102, 126, 234, 0.03); border-radius: 20px; padding: 30px; border: 2px solid rgba(102, 126, 234, 0.1);">
+
+<img src="https://github-profile-trophy.vercel.app/?username=deveshpunjabi&theme=flat&no-frame=true&no-bg=true&margin-w=12&margin-h=8&column=6&row=2" alt="Achievement Trophies"/>
+
 </div>
 
 ---
@@ -330,3 +325,4 @@ YAML         ███░░░░░░░░░░░░░░░░░░   1
   
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=667eea&center=true&vCenter=true&width=500&lines=⭐+Star+my+repos+if+you+find+them+useful!;🔐+Always+building+secure+solutions;💡+Let's+innovate+and+secure+the+future!" alt="Footer Typing" />
 </div>
+
