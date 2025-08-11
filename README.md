@@ -285,22 +285,22 @@ YAML         ███░░░░░░░░░░░░░░░░░░   1
       <td align="center" width="25%">
         <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="80"/>
         <br><strong>LinkedIn</strong>
-        <br><a href="https://linkedin.com/in/harshitasingh"><img src="https://img.shields.io/badge/Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+        <br><a href="https://linkedin.com/in/deveshpunjabi"><img src="https://img.shields.io/badge/Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
       </td>
       <td align="center" width="25%">
-        <img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" width="80"/>
-        <br><strong>Twitter</strong>
-        <br><a href="https://twitter.com/harshitasingh"><img src="https://img.shields.io/badge/Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+        <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHFjdHlkZXdkeTk2djZ5N3VzZ2hvMmc4cGRyOTFheWR2ZHdzM3h2dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/TDQOtnWgsBx99cNoyH/giphy.gif" width="80"/>
+        <br><strong>buymeacoffee</strong>
+        <br><a href="https://buymeacoffee.com/deveshpunjabi"><img src="https://img.shields.io/badge/Visit-667eea?style=for-the-badge&logo=buymeacoffee&logoColor=white"/></a>
       </td>
       <td align="center" width="25%">
         <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="80"/>
         <br><strong>Email</strong>
-        <br><a href="mailto:harshita@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+        <br><a href="mailto:punjabidevesh5810@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
       </td>
       <td align="center" width="25%">
         <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="80"/>
         <br><strong>Portfolio</strong>
-        <br><a href="https://harshitasingh.dev"><img src="https://img.shields.io/badge/Visit-667eea?style=for-the-badge&logo=About.me&logoColor=white"/></a>
+        <br><a href="https://deveshpunjabi.me"><img src="https://img.shields.io/badge/Visit-667eea?style=for-the-badge&logo=About.me&logoColor=white"/></a>
       </td>
     </tr>
   </table>
