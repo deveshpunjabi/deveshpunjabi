@@ -201,23 +201,27 @@
 <h2 align="center">📊 GitHub Stats <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"></h2>
 
 <div align="center">
-  <a href="https://github.com/deveshpunjabi">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=deveshpunjabi&show_icons=true&theme=radical&bg_color=0D1117&title_color=00FFA3&icon_color=00FFA3&text_color=FFFFFF&border_color=00FFA3&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=deveshpunjabi&theme=radical&stroke=0D1117&ring=00FFA3&fire=00FFA3&currStreakLabel=00FFA3&border=00FFA3"/>
-  </a>
-</div>
 
-<div align="center">
-  <a href="https://github.com/deveshpunjabi">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deveshpunjabi&layout=compact&theme=radical&bg_color=0D1117&title_color=00FFA3&text_color=FFFFFF&border_color=00FFA3"/>
-  </a>
-</div>
+<table width="100%">
+<tr>
+<td width="50%">
 
-<br>
+<img src="https://github-readme-stats.vercel.app/api?username=deveshpunjabi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=667EEA&icon_color=667EEA&text_color=ffffff&border_radius=15" alt="GitHub Stats" width="100%"/>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=deveshpunjabi&bg_color=0D1117&color=00FFA3&line=00FFA3&point=FFFFFF&area=true&hide_border=true" />
-</div>
+</td>
+<td width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deveshpunjabi&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&bg_color=0D1117&title_color=667EEA&text_color=ffffff&border_radius=15" alt="Top Languages" width="100%"/>
+
+</td>
+</tr>
+</table>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=deveshpunjabi&theme=tokyonight&hide_border=true&background=0D1117&stroke=667EEA&ring=667EEA&fire=f093fb&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=667EEA&sideLabels=667EEA&dates=ffffff&border_radius=15" alt="GitHub Streak" width="70%"/>
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=deveshpunjabi&theme=tokyo-night&hide_border=true&area=true&custom_title=🚀%20Elite%20Contribution%20Matrix&bg_color=0D1117&color=667EEA&line=f093fb&point=ffffff&area_color=667EEA&title_color=667EEA&radius=15" alt="Contribution Graph" width="95%"/>
 
 ---
 
