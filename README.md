@@ -11,95 +11,44 @@
 </div>
 
 ---
+<!-- 👨‍💻 ABOUT SECTION -->
+<h1 align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="40"> 
+  ABOUT ME 
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="40">
+</h1>
+<!-- About Me Hero Card -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  <table>
+    <tr>
+      <td width="40%" align="center">
+        <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="350" alt="coding"/>
+        <br><br>
+      </td>
+      <td width="60%" valign="top">
+        <h2>🎯 Who Am I?</h2>
+        <blockquote>
+          <p><em>"Code is like humor. When you have to explain it, it's bad."</em> - Cory House</p>
+        </blockquote>
+        <p>
+          As a <strong>Cybersecurity Student</strong> and <strong>AI Researcher</strong>, I am passionate about bridging the gap between research and real-world applications. With hands-on experience in <strong>digital security</strong>, <strong>AI-driven solutions</strong>, and <strong>technical leadership</strong>, I thrive on solving security challenges and driving innovation.
+        </p>
+        <h3>🔹 What I Bring to the Table</h3>
+        <ul align="left">
+          <li>✔️ <strong>Cybersecurity & AI Expertise</strong> – Specializing in deepfake detection, ethical hacking, and AI-powered security solutions to combat emerging cyber threats.</li>
+          <li>✔️ <strong>Web & Digital Management</strong> – Enhancing online security, optimizing platforms, and managing digital infrastructures with a security-first mindset.</li>
+          <li>✔️ <strong>Leadership & Mentorship</strong> – Actively mentoring peers, leading tech discussions, and organizing impactful initiatives to foster a culture of continuous learning.</li>
+          <li>✔️ <strong>Innovative Problem-Solving</strong> – Leveraging AI and cybersecurity to drive meaningful advancements for businesses and society.</li>
+        </ul>
+        <p>
+          I am eager to collaborate with industry experts, researchers, and tech professionals to explore groundbreaking ideas and strengthen global cybersecurity.  
+          <strong>Let’s connect and build a safer digital future together! 🔗✨</strong>
+        </p>
+      </td>
+    </tr>
+  </table>
 </div>
 
-<details>
-  <summary><strong><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me <em>(Click to expand)</em></strong></summary>
-
-  <br>
-
-  <h3>🚀 Mission & Vision</h3>
-  <p>I'm on a mission to combine <strong>AI + Cybersecurity</strong> to build:</p>
-
-  <ul>
-    <li>🔍 Smarter threat detection tools</li>
-    <li>🛡️ Privacy-first defensive systems</li>
-    <li>🎓 Open education platforms for cybersecurity</li>
-    <li>🤝 Community-driven secure tech initiatives</li>
-  </ul>
-
-  <h3>🎯 Core Goals</h3>
-
-  <ul>
-    <li><strong>🔍 Detection & Intelligence</strong>
-      <ul>
-        <li><strong>Phishing Detection:</strong> AI systems that catch sophisticated attacks</li>
-        <li><strong>Deepfake Identification:</strong> ML models to verify media authenticity</li>
-        <li><strong>Threat Intelligence:</strong> Real-time automated analysis & prediction</li>
-      </ul>
-    </li>
-    <li><strong>🔐 Defensive Solutions</strong>
-      <ul>
-        <li><strong>Smart Automation:</strong> Ethical AI-driven security systems</li>
-        <li><strong>Privacy Protection:</strong> Implementing zero-trust architectures</li>
-        <li><strong>Incident Response:</strong> AI-powered mitigation systems</li>
-      </ul>
-    </li>
-    <li><strong>🧪 Education & Research</strong>
-      <ul>
-        <li><strong>Learning Simulators:</strong> Interactive ethical hacking labs</li>
-        <li><strong>Open Research:</strong> Transparent and collaborative research practices</li>
-        <li><strong>Community Tools:</strong> Free security education platforms</li>
-      </ul>
-    </li>
-  </ul>
-
-  <div align="center">
-    <img src="https://img.shields.io/badge/🌟-Open_Source-FF6B6B?style=for-the-badge&labelColor=1a1a2e" />
-    <img src="https://img.shields.io/badge/🔒-Transparent-4ECDC4?style=for-the-badge&labelColor=1a1a2e" />
-    <img src="https://img.shields.io/badge/🎓-Student_Friendly-45B7D1?style=for-the-badge&labelColor=1a1a2e" />
-    <img src="https://img.shields.io/badge/🤝-Community_Driven-96CEB4?style=for-the-badge&labelColor=1a1a2e" />
-  </div>
-
-  <br>
-
-  <div align="center">
-    <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="250" /><br/>
-    <em>💡 Bridging the gap between cutting-edge AI and practical cybersecurity</em>
-  </div>
-
-  <br>
-
-  <div align="center">
-    <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="250" /><br/>
-    <em>🛡️ Ethical tools that protect without compromising privacy</em>
-  </div>
-
-  <br>
-
-  <div align="center">
-    <img src="https://img.shields.io/badge/🚀-Projects_Built-8?style=for-the-badge&color=FF6B6B&labelColor=1a1a2e" />
-    <img src="https://img.shields.io/badge/👥-Community_Members-3?style=for-the-badge&color=4ECDC4&labelColor=1a1a2e" />
-    <img src="https://img.shields.io/badge/📅-Active_Since-Apr_2023?style=for-the-badge&color=45B7D1&labelColor=1a1a2e" />
-  </div>
-
-  <br>
-
-  <h3 align="center">🌟 My Philosophy</h3>
-  <p align="center">
-    <em>"All my tools are open-source, transparent, and student-friendly – made to educate and protect."</em><br/>
-    <em>I believe cybersecurity knowledge should be democratized, not gatekept. Together we can build a safer digital world where learning and innovation go hand in hand.</em>
-  </p>
-
-  <br>
-
-  <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=2&section=footer" />
-  </div>
-
-</details>
 
 ---
 <h2 align="center">⚡ Tech Stack & Tools <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></h2>
