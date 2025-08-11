@@ -225,30 +225,87 @@
 
 ---
 
-<h2 align="center">
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> 
-  Support My Journey 
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40">
-</h2>
+<!-- Enhanced Achievements Section -->
+## <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="35"> Achievements & Highlights
 
 <div align="center">
   <table>
     <tr>
-      <td align="center" style="border: none;">
-        <h3>☕ Enjoyed my work? Buy me a coffee!</h3>
-        <br>
-        <a href="https://buymeacoffee.com/deveshpunjabi" target="_blank">
-          <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 50px; width: 180px;" />
-        </a>
-        <br><br>
-        <blockquote>
-          <p><em>Your support fuels more open-source projects and keeps the cyber-vibes alive! 🙌</em></p>
-        </blockquote>
+      <td align="center" width="33%">
+        <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100"/>
+        <br><strong>🏆 SIH'24 Finalist</strong>
+        <br>National-level recognition
+      </td>
+      <td align="center" width="33%">
+        <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="100"/>
+        <br><strong>🌟 Open Source</strong>
+        <br>GSSoC'24 & Winter of Blockchain
+      </td>
+      <td align="center" width="33%">
+        <img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-99c676e5f436.gif" width="100"/>
+        <br><strong>💼 Professional</strong>
+        <br>Associate @ Tech Mahindra
       </td>
     </tr>
+  </table>
+</div>
+
+<!-- Enhanced Trophy Section -->
+<div align="center" style="margin-top: 20px;">
+  <img src="https://github-profile-trophy.vercel.app/?username=hsingh8850&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest,Issues" alt="Trophy" />
+</div>
+
+---
+## 📈 Activity Overview
+
+<div align="center">
+
+### 💻 Weekly Development Breakdown
+```text
+Python       ████████████████████░   87.2%
+JavaScript   ████████░░░░░░░░░░░░░   34.8%
+Bash         ██████░░░░░░░░░░░░░░░   26.5%
+HTML/CSS     ████░░░░░░░░░░░░░░░░░   18.3%
+YAML         ███░░░░░░░░░░░░░░░░░░   12.7%
+```
+
+### 🎯 Current Focus Areas
+<p>
+  <img src="https://img.shields.io/badge/AI%20Security%20Research-Active-success?style=flat-square&logo=brain" />
+  <img src="https://img.shields.io/badge/Threat%20Detection-Active-success?style=flat-square&logo=shield" />
+  <img src="https://img.shields.io/badge/Python%20Development-Active-success?style=flat-square&logo=python" />
+  <img src="https://img.shields.io/badge/Content%20Creation-Active-success?style=flat-square&logo=edit" />
+  <img src="https://img.shields.io/badge/Open%20Source-Active-success?style=flat-square&logo=opensource" />
+</p>
+
+</div>
+
+
+<!-- Enhanced Connect Section -->
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="35"> Let's Connect & Build Together!
+
+<div align="center">
+  <table>
     <tr>
-      <td align="center">
-        <img src="https://media.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="Coding gif" width="200px" />
+      <td align="center" width="25%">
+        <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="80"/>
+        <br><strong>LinkedIn</strong>
+        <br><a href="https://linkedin.com/in/harshitasingh"><img src="https://img.shields.io/badge/Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+      </td>
+      <td align="center" width="25%">
+        <img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" width="80"/>
+        <br><strong>Twitter</strong>
+        <br><a href="https://twitter.com/harshitasingh"><img src="https://img.shields.io/badge/Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+      </td>
+      <td align="center" width="25%">
+        <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="80"/>
+        <br><strong>Email</strong>
+        <br><a href="mailto:harshita@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+      </td>
+      <td align="center" width="25%">
+        <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="80"/>
+        <br><strong>Portfolio</strong>
+        <br><a href="https://harshitasingh.dev"><img src="https://img.shields.io/badge/Visit-667eea?style=for-the-badge&logo=About.me&logoColor=white"/></a>
       </td>
     </tr>
   </table>
@@ -256,33 +313,20 @@
 
 ---
 
-<div align="center">
-  <h3>🏆 GitHub Achievements</h3>
-  <img src="https://github-profile-trophy.vercel.app/?username=deveshpunjabi&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" />
+<!-- Enhanced Snake Animation -->
+<div align="center" style="margin-top: 30px;">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
----
-
+<!-- Enhanced Footer -->
 <div align="center">
-  <h3>📈 Profile Insights</h3>
-  <img src="https://komarev.com/ghpvc/?username=deveshpunjabi&label=Profile%20views&color=FF6B6B&style=for-the-badge" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/deveshpunjabi?label=Followers&style=for-the-badge&color=4ECDC4" alt="Followers" />
-  <img src="https://img.shields.io/badge/Focus-Cybersecurity%20%2B%20AI-45B7D1?style=for-the-badge" alt="Focus" />
-  <img src="https://img.shields.io/badge/Status-Building%20the%20Future-96CEB4?style=for-the-badge" alt="Status" />
-</div>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Keep%20Learning%20•%20Keep%20Building%20•%20Stay%20Secure&fontSize=24&fontColor=fff&animation=twinkling&fontAlignY=70" />
-</p>
-
-<div align="center">
-  <h2>🙏 Thanks for stopping by!</h2>
-  <p>
-    <img src="https://img.shields.io/badge/⭐-Star_my_repositories-FFD700?style=flat-square&labelColor=2C3E50" />
-    <img src="https://img.shields.io/badge/🤝-Let's_connect-4ECDC4?style=flat-square&labelColor=2C3E50" />
-    <img src="https://img.shields.io/badge/🚀-Build_amazing_things-FF6B6B?style=flat-square&labelColor=2C3E50" />
-  </p>
-  <p><em>Together, we can make cyberspace safer! 🛡️</em></p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer&fontSize=20&fontColor=fff&animation=twinkling" alt="footer"/>
+  
+### <img src="https://user-images.githubusercontent.com/74038190/212284126-bf2697b6-5311-4bc0-aa88-a6e0c8855a8d.gif" width="25"> Thanks for visiting! Let's create secure solutions together! <img src="https://user-images.githubusercontent.com/74038190/212284126-bf2697b6-5311-4bc0-aa88-a6e0c8855a8d.gif" width="25">
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=667eea&center=true&vCenter=true&width=500&lines=⭐+Star+my+repos+if+you+find+them+useful!;🔐+Always+building+secure+solutions;💡+Let's+innovate+and+secure+the+future!" alt="Footer Typing" />
 </div>
