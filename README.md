@@ -2,12 +2,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Devesh%20Punjabi&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Cybersecurity%20Enthusiast%20|%20AI%20Researcher%20&%20Developer%20|%20Python%20Dev&descSize=18&descAlignY=55" />
 </div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Building%20AI%20against%20threats...;Scanning%20cyberspace...&font=Fira+Code&center=true&width=440&height=45&color=00FFAA&vCenter=true&size=22">
-</p>
-
+<!-- Dynamic Typing Animation Hero Section -->
 <div align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coding" width="300"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&pause=1000&color=667eea&center=true&vCenter=true&repeat=true&width=900&lines=🚀+Building%20AI%20against%20threats...;💻+Crafting+Code+%26+Building+Dreams;🌟+Scanning%20cyberspace...;⚡+Always+Learning%2C+Always+Growing;🔥+Building+the+Future%2C+One+Line+at+a+Time" alt="Typing SVG" />
 </div>
 
 ---
