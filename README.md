@@ -150,11 +150,11 @@
         <br><strong>🏆 Google Cloud Agentic AI Day'25 Finalist</strong>
       </td>
       <td align="center" width="33%">
-        <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Y5bzF1MnQzdW5mbThoMzhsdXo4b3M2OXE3MzZpd2N1b255bnByayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/X0dsaZGkEkiEw94g2m/giphy.gif" width="100"/>
+        <img src="https://isro.hack2skill.com/2024/assests/images/cover-logo.png" width="100"/>
         <br><strong>🚀 ISRO Hackathon Participant</strong>
       </td>
       <td align="center" width="33%">
-        <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="100"/>
+        <img src="https://media.licdn.com/dms/image/v2/D4D12AQGw06ebjwFH7w/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1694445242743?e=2147483647&v=beta&t=VBCPvoscPNx1UP9BlmPbLAoivfdZm80DsOxbcobhhiM" width="100"/>
         <br><strong>🌟 Open Source Contributor</strong>
       </td>
     </tr>
