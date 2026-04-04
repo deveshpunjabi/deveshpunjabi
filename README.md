@@ -116,26 +116,24 @@
 
 <div align="center">
 
-<table width="100%">
-<tr>
-<td width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=deveshpunjabi&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=667EEA&icon_color=667EEA&text_color=ffffff&border_radius=15" alt="GitHub Stats" width="100%"/>
-
-</td>
-<td width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deveshpunjabi&layout=compact&hide_border=true&langs_count=10&bg_color=0D1117&title_color=667EEA&text_color=ffffff&border_radius=15" alt="Top Languages" width="100%"/>
-
-</td>
-</tr>
-</table>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=deveshpunjabi&hide_border=true&background=0D1117&stroke=667EEA&ring=667EEA&fire=f093fb&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=667EEA&sideLabels=667EEA&dates=ffffff&border_radius=15" alt="GitHub Streak" width="70%"/>
+<img width="96%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deveshpunjabi&theme=github_dark" alt="Profile Details"/>
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=deveshpunjabi&theme=tokyo-night&hide_border=true&area=true&custom_title=🚀%20Elite%20Contribution%20Matrix&bg_color=0D1117&color=667EEA&line=f093fb&point=ffffff&area_color=667EEA&title_color=667EEA&radius=15" alt="Contribution Graph" width="95%"/>
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=deveshpunjabi&theme=github_dark" alt="Repos per Language"/>
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=deveshpunjabi&theme=github_dark" alt="Most Commit Language"/>
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=deveshpunjabi&theme=github_dark" alt="Stats"/>
+
+<br><br>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=deveshpunjabi&theme=github_dark&utcOffset=5.5" alt="Productive Time"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=deveshpunjabi&theme=github-dark-blue&hide_border=true&border_radius=14" alt="GitHub Streak"/>
+
+<br><br>
+
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=deveshpunjabi&theme=github-compact&hide_border=true&area=true&custom_title=🚀%20Contribution%20Activity" alt="Contribution Graph"/>
+
+</div>
 
 ---
 
@@ -154,7 +152,7 @@
         <br><strong>🚀 ISRO Hackathon Participant</strong>
       </td>
       <td align="center" width="33%">
-        <img src="https://media.licdn.com/dms/image/v2/D4D12AQGw06ebjwFH7w/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1694445242743?e=2147483647&v=beta&t=VBCPvoscPNx1UP9BlmPbLAoivfdZm80DsOxbcobhhiM" width="100"/>
+        <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100"/>
         <br><strong>🌟 Open Source Contributor</strong>
       </td>
     </tr>
