@@ -112,26 +112,19 @@
 
 <div align="center">
 
-<!-- Profile Details (Native GitHub Dark Theme) -->
-<img width="96%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deveshpunjabi&theme=github_dark" alt="Profile Details"/>
+<!-- Profile Details (Light Theme) -->
+<img width="96%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deveshpunjabi&theme=default" alt="Profile Details"/>
 
 <br><br>
 
-<!-- 3-Column Stats Grid -->
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=deveshpunjabi&theme=github_dark" alt="Repos per Language"/>
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=deveshpunjabi&theme=github_dark" alt="Most Commit Language"/>
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=deveshpunjabi&theme=github_dark" alt="Stats"/>
+<!-- 2-Column Stats & Streak Grid (Light Theme) -->
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=deveshpunjabi&theme=default" alt="Stats"/>
+<img width="48%" src="https://streak-stats.demolab.com/?user=deveshpunjabi&hide_border=true&background=ffffff&ring=1f883d&fire=1f883d&currStreakLabel=1f883d&sideNums=24292f&currStreakNum=24292f&sideLabels=24292f&dates=24292f" alt="GitHub Streak"/>
 
 <br><br>
 
-<!-- 2-Column Productive Time & Custom Green Streak -->
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=deveshpunjabi&theme=github_dark&utcOffset=5.5" alt="Productive Time"/>
-<img width="49%" src="https://streak-stats.demolab.com/?user=deveshpunjabi&hide_border=true&background=0D1117&ring=3fb950&fire=3fb950&currStreakLabel=3fb950&sideNums=c9d1d9&currStreakNum=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9" alt="GitHub Streak"/>
-
-<br><br>
-
-<!-- Custom Premium GitHub Green Activity Graph -->
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=deveshpunjabi&bg_color=0D1117&color=c9d1d9&line=2ea043&point=3fb950&area=true&hide_border=true&custom_title=🚀%20Contribution%20Activity" alt="Contribution Graph"/>
+<!-- Custom Premium Light/Dark Green Activity Graph -->
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=deveshpunjabi&bg_color=ffffff&color=24292f&line=1f883d&point=216e39&area=true&hide_border=true&custom_title=🚀%20Contribution%20Activity" alt="Contribution Graph"/>
 
 </div>
 
@@ -178,7 +171,7 @@
 ---
 
 <!-- 🤝 CONNECT -->
-<h2 align="center"><img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="35"> Let's Connect!</h2>
+<h2 align="center"><img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="35"> Let's Connect!</h2>
 
 <div align="center">
   <table>
