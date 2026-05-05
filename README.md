@@ -16,27 +16,31 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="40">
 </h1>
 
-<div align="center">
-  <table width="80%">
-    <tr>
-      <td valign="top" align="center">
-        <h2>🎯 Who Am I?</h2>
-        <blockquote>
-          <p><em>"Code is like humor. When you have to explain it, it's bad."</em> - Cory House</p>
-        </blockquote>
+<!-- TERMINAL ABOUT ME SECTION -->
+
+<table align="center" width="800">
+  <tr>
+    <td width="100%" align="center">
+      <code><b><span style="color:#00F0FF;">devesh@mainframe</span>:<span style="color:#BC13FE;">~</span>$ cat about_me.txt</b></code>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div align="center">
+        <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="180" />
+        <br>
         <p align="left">
-          I am an <strong>AI Enthusiast</strong> and <strong>Python Developer</strong> passionate about bridging the gap between research-driven learning and real-world applications. Driven by curiosity and experimentation, I enjoy transforming complex ideas into functional solutions using modern technologies.
+          <kbd>></kbd> <strong>Identity:</strong> Python Developer & AI Enthusiast.<br><br>
+          <kbd>></kbd> <strong>Mission:</strong> Bridging the gap between cutting-edge AI research and real-world, scalable applications.<br><br>
+          <kbd>></kbd> <strong>Current Directive:</strong> Exploring agentic AI, optimizing automation workflows, and building robust backend infrastructures.<br><br>
+          <kbd>></kbd> <strong>Philosophy:</strong> <em>"Code is like humor. When you have to explain it, it's bad."</em>
         </p>
-        <h3 align="left">🔹 Core Focus</h3>
-        <ul align="left">
-          <li>✔️ <strong>AI & Intelligent Systems</strong> – Exploring automation, AI concepts, and data-driven solutions to address real-world challenges.</li>
-          <li>✔️ <strong>Web & Digital Management</strong> – Optimizing platforms and managing digital infrastructures for efficiency and usability.</li>
-          <li>✔️ <strong>Innovative Problem-Solving</strong> – Building systems that are practical, scalable, and impactful.</li>
-        </ul>
-      </td>
-    </tr>
-  </table>
-</div>
+      </div>
+    </td>
+  </tr>
+</table>
+
+<br>
 
 ---
 <h2 align="center">⚡ Tech Stack & Tools <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></h2>
@@ -90,7 +94,7 @@
 <table>
   <tr>
     <td align="center" width="96">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png" alt="Git" width="65" height="65" />
+      <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" alt="Docker" width="65" height="65" />
       <br>Git
     </td>
     <td align="center" width="96">
