@@ -10,14 +10,6 @@
 ---
 
 <!-- 👨‍💻 ABOUT SECTION -->
-<h1 align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="40"> 
-  ABOUT ME 
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="40">
-</h1>
-
-<!-- TERMINAL ABOUT ME SECTION -->
-
 <table align="center" width="800">
   <tr>
     <td width="100%" align="center">
@@ -43,12 +35,12 @@
 <br>
 
 ---
-<h2 align="center">⚡ Tech Stack & Tools <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></h2>
+<h2 align="center">Tech Matrix <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/26a1/512.gif" width="30"></h2>
 
 <div align="center">
 
 <!-- Core Languages -->
-<h3>🐍 Core Languages</h3>
+<p><code>&lt; Languages & Scripting /&gt;</code></p>
 <table>
   <tr>
     <td align="center" width="96">
@@ -67,7 +59,7 @@
 </table>
 
 <!-- AI & ML -->
-<h3>🤖 AI & ML Frameworks</h3>
+<p><code>&lt; AI, Machine Learning & Data /&gt;</code></p>
 <table>
   <tr>
     <td align="center" width="96">
@@ -90,7 +82,7 @@
 </table>
 
 <!-- DevOps & Tools -->
-<h3>⚙️ DevOps & Tools</h3>
+<p><code>&lt; Architecture & Operations /&gt;</code></p>
 <table>
   <tr>
     <td align="center" width="96">
@@ -116,85 +108,72 @@
 
 ---
 
-<h2 align="center">📊 GitHub Stats <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"></h2>
+<h2 align="center">System Telemetry <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"></h2>
 
 <div align="center">
 
+<!-- Profile Details (Native GitHub Dark Theme) -->
 <img width="96%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deveshpunjabi&theme=github_dark" alt="Profile Details"/>
 
 <br><br>
 
+<!-- 3-Column Stats Grid -->
 <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=deveshpunjabi&theme=github_dark" alt="Repos per Language"/>
 <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=deveshpunjabi&theme=github_dark" alt="Most Commit Language"/>
 <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=deveshpunjabi&theme=github_dark" alt="Stats"/>
 
 <br><br>
 
+<!-- 2-Column Productive Time & Custom Green Streak -->
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=deveshpunjabi&theme=github_dark&utcOffset=5.5" alt="Productive Time"/>
-<img width="49%" src="https://streak-stats.demolab.com?user=deveshpunjabi&theme=github-dark-blue&hide_border=true&border_radius=14" alt="GitHub Streak"/>
+<img width="49%" src="https://streak-stats.demolab.com/?user=deveshpunjabi&hide_border=true&background=0D1117&ring=3fb950&fire=3fb950&currStreakLabel=3fb950&sideNums=c9d1d9&currStreakNum=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9" alt="GitHub Streak"/>
 
 <br><br>
 
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=deveshpunjabi&theme=github-compact&hide_border=true&area=true&custom_title=🚀%20Contribution%20Activity" alt="Contribution Graph"/>
+<!-- Custom Premium GitHub Green Activity Graph -->
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=deveshpunjabi&bg_color=0D1117&color=c9d1d9&line=2ea043&point=3fb950&area=true&hide_border=true&custom_title=🚀%20Contribution%20Activity" alt="Contribution Graph"/>
 
 </div>
 
 ---
 
 <!-- Enhanced Achievements Section -->
-## <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="35"> Achievements & Highlights
+<h2 align="center">Hall of Fame <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3c6/512.gif" width="30"></h2>
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="33%">
-        <img src="https://miro.medium.com/1*gJ5RBdc0sbO0IxkZ_YU_YQ.gif" width="100"/>
-        <br><strong>🏆 Google Cloud Agentic AI Day'25 Finalist</strong>
+  <table width="90%">
+    <tr align="center">
+      <td width="33%">
+        <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3c6/512.gif" width="55"/><br>
+        <br><b>Google Cloud Agentic</b><br>AI Day'25 Finalist
       </td>
-      <td align="center" width="33%">
-        <img src="https://isro.hack2skill.com/2024/assests/images/cover-logo.png" width="100"/>
-        <br><strong>🚀 ISRO Hackathon Participant</strong>
+      <td width="33%">
+        <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" width="55"/><br>
+        <br><b>ISRO Hackathon</b><br>Participant
       </td>
-      <td align="center" width="33%">
-        <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100"/>
-        <br><strong>🌟 Open Source Contributor</strong>
+      <td width="33%">
+        <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif" width="55"/><br>
+        <br><b>Open Source</b><br>Contributor
       </td>
     </tr>
   </table>
+
+  <br>
+
+  <img src="https://github-profile-trophy.vercel.app/?username=deveshpunjabi&theme=transparent&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=6&row=1" alt="Trophies" />
 </div>
 
-<!-- Enhanced Trophy Section -->
-<div style="background: rgba(102, 126, 234, 0.03); border-radius: 20px; padding: 30px; border: 2px solid rgba(102, 126, 234, 0.1);">
-
-<img src="https://github-profile-trophy.vercel.app/?username=deveshpunjabi&theme=flat&no-frame=true&no-bg=true&margin-w=12&margin-h=8&column=6&row=2" alt="Achievement Trophies"/>
-
-</div>
 
 ---
-## 📈 Activity Overview
-
+<h2 align="center">Network Activity Grid <img src="https://twemoji.maxcdn.com/v/latest/72x72/1f578.png" width="30"></h2>
 <div align="center">
+  <!-- Default GitHub Green Contribution Graph -->
+  <h3><code>>_ Contribution_Frequency</code></h3>
+  <img src="https://ghchart.rshah.org/40c463/deveshpunjabi" width="85%" alt="Contribution Chart" />
+  
+  <br><br>
 
-### 💻 Weekly Development Breakdown
-```text
-Python       ████████████████████░   87.2%
-JavaScript   ████████░░░░░░░░░░░░░   34.8%
-Bash         ██████░░░░░░░░░░░░░░░   26.5%
-HTML/CSS     ████░░░░░░░░░░░░░░░░░   18.3%
-YAML         ███░░░░░░░░░░░░░░░░░░   12.7%
-```
-
-### 🎯 Current Focus Areas
-<p>
-  <img src="https://img.shields.io/badge/Artificial%20Intelligence-Active-success?style=flat-square&logo=brain" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-Active-success?style=flat-square&logo=scikitlearn" />
-  <img src="https://img.shields.io/badge/Python%20Development-Active-success?style=flat-square&logo=python" />
-  <img src="https://img.shields.io/badge/Data%20Driven%20Solutions-Active-success?style=flat-square&logo=googleanalytics" />
-  <img src="https://img.shields.io/badge/Open%20Source-Active-success?style=flat-square&logo=opensource" />
-</p>
-
-</div>
-
+  </div>
 
 ---
 
@@ -222,15 +201,6 @@ YAML         ███░░░░░░░░░░░░░░░░░░   1
       </td>
     </tr>
   </table>
-</div>
-
-<!-- Enhanced Snake Animation -->
-<div align="center" style="margin-top: 30px;">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  </picture>
 </div>
 
 <!-- Enhanced Footer -->
