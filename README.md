@@ -4,7 +4,7 @@
 
 <!-- Dynamic Typing Animation Hero Section -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&pause=1000&color=667eea&center=true&vCenter=true&repeat=true&width=900&lines=🚀+Building%20Intelligent%20Solutions...;💻+Crafting+Code+%26+Building+Dreams;🌟+Exploring%20AI+%26+Data...;⚡+Always+Learning%2C+Always+Growing;🔥+Building+the+Future%2C+One+Line+at+a+Time" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&pause=1000&color=667eea&center=true&vCenter=true&repeat=true&width=900&lines=🧠+Exploring+Agentic+Intelligence;🤖+Multi-Agent+Systems+%26+Automation;⚙️+Orchestrating+AI+Workflows;📊+From+Data+to+Decisions;🚀+Engineering+Intelligence" alt="Typing SVG" />
 </div>
 
 ---
